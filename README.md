@@ -10,9 +10,14 @@ The rest of the workshops are available at: https://github.com/thesickish/WICSS
 
 ## Workshop
 
-This workshop provides an introduction to some Machine Learning tools to analyze text as data.
+This workshop provides an introduction to some Machine Learning tools for classifying event data using unstructured text.
 
-The applications focus on classifying terrorist events using narratives from the South Asia Terrorism Project, SATP, https://www.satp.org/ 
+The applications focus on classifying terrorist events using a sample of narratives from the South Asia Terrorism Project, SATP, https://www.satp.org/ 
+
+The workshop consists of two sessions:
+
+* Session 1: brief introduction to event coding and computerized text analysis.
+* Session 2: practical session using a variety of ML algorithms for event coding.
 
 The presentation files are:
 
